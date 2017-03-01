@@ -16,10 +16,6 @@ In this talk, I’ll discuss implicit views in the Scala Language Specification 
 
 I’ll present the major data-structures (Compilation Unit, Context, Tree, Symbol & Scope) and phases (parser, namer & typer) in the compiler and then we’ll dive into the code and learn how scalac represents, transforms, and types our simple program.
 
-## Notes
-
-
-
 ## Bio
   
 Will was the first engineer at Troops.AI and a functional programing veteran. He graduated from NYU with a degree in math and econ and then spent 3 years at Novus Partners as both individual contributor and a team lead.

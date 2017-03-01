@@ -10,10 +10,6 @@ Spotify
 
 We'll talk about Scio, a Scala API for Google Cloud Dataflow and Apache Beam, and how Spotify uses Scala for data processing and machine learning on Google Cloud Platform. We'll cover topics including Algebird, macros, and shapeless.
 
-## Description
-
-
-
 ## Notes
 
 Related links:

@@ -12,10 +12,6 @@ One year of CBT, the new build tool presented last year. All major open technica
 
 In particular we'll demo CBT's elegant and easy-to-use solutions for reproducible builds, task caching, dynamic configuration, multi project builds, task scoping and git dependencies. We'll write a meaningful plugin from scratch to show how easy it is. We'll show how you can use CBT to start experimenting with dotty yourself.
 
-## Notes
-
-
-
 ## Bio
   
 Chris Vogt is a Senior Software Engineer magically scheduling meetings with artificial intelligence at x.ai. He is a former member or Martin's lab, co-author of Slick and author of CBT.

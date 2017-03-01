@@ -18,10 +18,6 @@ Longevity provides you with a wide range of persistence infrastructure that you 
 
 In this talk, we’ll talk briefly about what longevity is, and how it works. Then we’ll switch over quickly into a live demo, demonstrating how to use the library.
 
-## Notes
-
-
-
 ## Bio
   
 John Sullivan is an 20-year Java veteran who has been happily programming in Scala for over 6 years. He is the creator of [longevity](http://longevityframework.org/), a persistence framework for Scala and NoSQL. A seasoned software engineer with a focus on back-end development and database integration, he is a strong advocate of the Domain Driven Design approach to software development. John has a Master of Science in Computer Science from UMass Boston. He is currently a software consultant at [Longevity By Design](http://www.longevitybydesign.net/).
