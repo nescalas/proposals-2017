@@ -23,7 +23,7 @@ I'll show how to write `Find[L,A]`, where `L` is an `HList`, which, similarly to
 
 ## Notes
 
-`Find[A]` is a typeclass that I thought I would never need, but software industry is full of uncertainties, and some times you do need an `Option[A]`.
+`Find[L,A]` is a typeclass that I thought I would never need, but software industry is full of uncertainties, and some times you do need an `Option[A]`.
 
 ## Bio
   
