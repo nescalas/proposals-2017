@@ -2,8 +2,6 @@
 
 [William Meyer (williammmeyer)](http://twitter.com/williammmeyer)
 
-[]()
-
 Troops.AI
 
 ## Abstract
@@ -17,6 +15,10 @@ Many Java APIs are unwieldy or unsafe but Scala gives us the tools to improve th
 In this talk, I’ll discuss implicit views in the Scala Language Specification and implicit classes in Scala Improvement Proposal-13 and present a simple program that uses implicit classes to wrap an unsafe API. Then we’ll trace the compilation of the program through scalac.
 
 I’ll present the major data-structures (Compilation Unit, Context, Tree, Symbol & Scope) and phases (parser, namer & typer) in the compiler and then we’ll dive into the code and learn how scalac represents, transforms, and types our simple program.
+
+## Notes
+
+
 
 ## Bio
   

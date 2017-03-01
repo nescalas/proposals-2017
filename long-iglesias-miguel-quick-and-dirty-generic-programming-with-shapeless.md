@@ -24,6 +24,8 @@ Each element of the resulting `List` is a result of an argument  _combination_ -
 
 We'll achieve that using shapeless and type classes. It really is "simple" -- abstract -- and fun.
 
+
+
 ## Notes
 
 This talk is from an actual use case at work. We shouldn't need this, but that's life, we needed it and scala+shapeless made it possible. The looks of incredulity of my coworkers was so awesome, and I had so much fun implementing this, that I thought it would be a good subject for a talk.

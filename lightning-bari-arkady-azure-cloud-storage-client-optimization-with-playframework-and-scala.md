@@ -1,6 +1,6 @@
 #Azure cloud storage client optimization with PlayFramework and Scala 
 
-[Arkady Bari ()](http://twitter.com/)
+Arkady Bari
 
 [https://www.linkedin.com/in/arkady-bari-75279a3](https://www.linkedin.com/in/arkady-bari-75279a3)
 

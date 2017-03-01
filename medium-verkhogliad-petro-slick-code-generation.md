@@ -2,8 +2,6 @@
 
 [Petro Verkhogliad (vpetro)](http://twitter.com/vpetro)
 
-[]()
-
 Lightbend
 
 ## Abstract
@@ -37,6 +35,8 @@ The code generation component is bundled with Slick. However, the documentation 
 
 Stewart Stewart is a Scala software engineer at Driver Group, conference speaker and Scala meetup co/organizer in San Francisco and New York.
 Petro Verkhogliad is a Scala consultant/trainer at Lightbend and Scala meetup organizer in Ottawa, Canada.
+
+
 
 ## Bio
   

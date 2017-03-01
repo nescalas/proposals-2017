@@ -10,6 +10,7 @@ Cake Solutions
 
 Reactive applications are becoming a de-facto industry standard. But design of these systems might be challenging as it requires particular mindset shift to tackle problems we might not be used to. We’re going to discuss things I’ve seen in the field that prevented applications to work as expected.
 
+
 ## Description
 
 Reactive applications are becoming a de-facto industry standard and, if employed correctly, toolkits like Lightbend Reactive Platform make the implementation easier than ever. But the design of these systems might be challenging as it requires particular mindset shift to tackle problems we might not be used to. In this talk, we’re going to discuss the most common things I’ve seen in the field that prevented applications to work as expected. I’d like to talk about typical pitfalls that might cause troubles, about trade-offs that might not be fully understood or important choices that might be overlooked including persistent actors pitfalls, tackling of network partitions, proper implementations of graceful shutdown or distributed transactions, trade-offs of micro-services or actors and more. 

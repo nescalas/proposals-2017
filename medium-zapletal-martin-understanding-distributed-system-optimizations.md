@@ -2,8 +2,6 @@
 
 [Martin Zapletal (zapletal_martin)](http://twitter.com/zapletal_martin)
 
-[]()
-
 Cake Solutions
 
 ## Abstract
@@ -17,6 +15,10 @@ Scalability and performance are critical for many business use cases. This talk 
 Firstly, the presentation introduces and in depth explains selected optimization techniques used in state of the art large scale stream and fast data processing frameworks such as Akka Streams, Spark or Flink, including configuration, deployment, logical and physical level optimizations. Consequently, powerful optimization concepts applicable to general distributed systems, including those built using Akka, will be presented and demonstrated on examples. Finally the role of machine learning and artificial intelligence in the optimizations area will be highlighted.
 
 The attendees will gain understanding of the available optimization approaches and tradeoffs and ultimately will be able to apply some of the techniques to optimize their own system, whether general distributed systems written in Scala, systems based on Akka or any of the aforementioned technologies.
+
+## Notes
+
+
 
 ## Bio
   

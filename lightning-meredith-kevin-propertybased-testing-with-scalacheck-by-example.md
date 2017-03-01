@@ -16,6 +16,10 @@ In this presentation, I will walk through the benefits of property-driven. Final
 
 * Types and Programming Languages, Dr. Benjamin Pierce
 
+## Notes
+
+
+
 ## Bio
   
 I've been working with Scala professionally since late 2013. Primarily, I've developed web services on the server/platform side. 

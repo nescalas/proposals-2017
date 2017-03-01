@@ -2,8 +2,6 @@
 
 [Rafal Wojdyla (ravwojdyla)](http://twitter.com/ravwojdyla)
 
-[]()
-
 Spotify
 
 ## Abstract

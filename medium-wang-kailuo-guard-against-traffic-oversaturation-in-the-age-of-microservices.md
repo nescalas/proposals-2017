@@ -19,6 +19,9 @@ There are two types of traffic oversaturation scenarios which I will call as *po
 
 We'll talk about several strategies to deal with traffic oversaturation, namely 1) backpressure with a fixed throttle, 2) pull-based backpressure and 3) backpressure with an adaptive throttle. We'll also look into some traffic control schemes to work with these backpressure strategies. Finally, we will examine a Scala library that implemented the 3rd strategy. 
 
+
+
+
 ## Notes
 
 Roughly 1.5 years ago I started with this question: how to guard our databases against DDOS attack? We then developed a library called [Kanaloa](http://github.com/iheartradio/kanaloa) for that purpose and deployed in our microservice system. In the process of developing this library, I learned a lot about traffic model and backpressure and the need of them in a microservice environment. This talk is oriented towards developers who are developing services but not quite familiar with those concepts. 
