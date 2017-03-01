@@ -6,13 +6,13 @@ Wunder Capital
 
 ## Abstract
 
-One common problem in any application is the validation of user input. This talk will outline one approach using the Validated data type from the Cats library. Attendees will come away with an understanding of how to use the library via a simple demonstration.
+One common problem in any application is the validation of user input. This talk will outline several approaches: exceptions, Try, Option, Either and finally Validated from Cats. Attendees will come away with an understanding of the pros/cons of each approach and see a demo of each approach in a small example.
 
 ## Description
 
-The life of a developer would be much easier if we didn't have to deal with pesky users trying to break out software at every turn. In order to keep the hordes from breaking down the gates of our pristine software castles, implementing validations for user entered data is of the utmost importance.
+The life of a developer would be much easier if we didn't have to deal with pesky users trying to break out software at every turn. In order to keep the unclean hordes of users from breaking down the gates of our pristine software castles, implementing validations for user entered data is of the utmost importance.
 
-In this talk, attendees will see one way to implement a functional validation layer using the Validated data type from the Cats library. Along the way we will talk about what goes into a good validation library, the mistakes we made when writing our code and even throw in some functional patterns from the Cats library.
+In this talk, attendees will see multiple ways to implement validations using various data types from both core Scala and the Cats library. Along the way we will talk about the pros/cons of each approach, what goes into a good validation library, the mistakes we made when writing our code and even throw in some functional patterns from the Cats library.
 
 
 ## Notes
