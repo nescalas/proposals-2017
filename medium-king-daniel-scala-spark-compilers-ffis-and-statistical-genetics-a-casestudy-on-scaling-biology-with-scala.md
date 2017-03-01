@@ -22,7 +22,7 @@ I could probably build the talk for any of the proposed time lengths.
 
 The talk will only assume knowledge of Scala; however knowledge of Spark, FFIs & SIMD, and linear algebra will likely enable a deeper understanding of the relevant sections.
 
-I'm best qualified to talk on this subject because I'm a software engineer at the Broad Institute, a non-profit biological research institution. At the Broad, a work full-time on Hail. I work closely with geneticists to build the software primitives that enable them to do reproducible science at the 10s of terabytes scale.
+I'm best qualified to talk on this subject because I'm a software engineer at the Broad Institute, a non-profit biological research institution. At the Broad, I work full-time on Hail. I work closely with geneticists to build the software primitives that enable them to do reproducible science at the 10s of terabytes scale.
 
 ## Bio
   
