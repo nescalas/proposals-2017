@@ -4,6 +4,8 @@
 
 [https://github.com/kevinmeredith](https://github.com/kevinmeredith)
 
+Banno
+
 ## Abstract
 
 This talk discusses and demos property-based testing. After providing a high-level overview of what it is and its benefits, the talk will demo the application of ScalaCheck on a simple data structure.
