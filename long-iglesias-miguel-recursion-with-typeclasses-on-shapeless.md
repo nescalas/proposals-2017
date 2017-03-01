@@ -12,7 +12,7 @@ Shapeless bread and butter is compile time recursion with typeclasses. In this t
 
 ## Description
 
-I'll show how to write `Find[A]`, which, similarly to `List[A](...).find(f: A => Boolean)`, will return `Some[A]` if it has a value of type `A`, but `None` otherwise:
+I'll show how to write `Find[L,A]`, where `L` is an `HList`, which, similarly to `List[A](...).find(f: A => Boolean)`, will return `Some[A]` if it has a value of type `A`, but `None` otherwise:
 
 ```scala
 ("a" :: 1 :: HNil).find[Int] === Some(1)
