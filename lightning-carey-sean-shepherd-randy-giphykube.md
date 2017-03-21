@@ -1,6 +1,6 @@
 #giphykube
 
-[Randy Shepherd & Sean Carey (aut0mat0n1c)](http://twitter.com/aut0mat0n1c)
+[Anthony Johnson & Randy Shepherd (aut0mat0n1c)](http://twitter.com/aut0mat0n1c)
 
 Giphy
 
@@ -24,4 +24,4 @@ Who would actually give this talk is a little up in the air, we were considering
 
 ## Bio
   
-Randy Shepherd VP of Eng @ Giphy & Sean Carey Director of DevOps @ Giphy
+Randy Shepherd VP of Eng @ Giphy & Anthony Johnson CTO @ Giphy
